@@ -60,6 +60,7 @@ You can [install it locally](https://www.postgresql.org/download/) or use [docke
 
 ### Third-party services
 
+If you are using gmail, make sure **Less secure app access** is enabled in security settings.
 
 ## Contact
 

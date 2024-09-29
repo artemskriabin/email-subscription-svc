@@ -8,6 +8,10 @@ db:
 listener:
   addr: :8000
 
+email:
+  sender: "your.email@mail.com"
+  password: "super_strong_password"
+
 cop:
   disabled: true
   endpoint: "http://..."
